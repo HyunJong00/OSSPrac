@@ -14,6 +14,3 @@ print("학과:",department)
 
 print("학년:")
 print("학교:",schoolName)
-
-# commit user change
-#dd
