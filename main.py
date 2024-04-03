@@ -9,3 +9,5 @@ print("이름:",name)
 print("학번:",studentNumber)
 print("학과:",department)
 print("학교:",schoolName)
+
+# commit user change
